@@ -1,0 +1,17 @@
+﻿**/bin/
+**/obj/
+
+.vs/
+*.user
+*.suo
+
+.idea/
+
+#env script
+setenv.cmd
+.env
+
+*.log
+
+
+publish/
